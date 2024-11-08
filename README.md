@@ -1,13 +1,18 @@
 ## Hi 👋, I'm Dongho Kim
-Software Data Scientist & Business Analytics Student 📊 💻
 
-🔬 I'm currently developing a Multimodal LLM Call Agent Project using OpenAI & RAG
-📈 I worked on a Stock Market Price Movement Prediction Project combining Sentiment Analysis & Deep Learning
-👥 I'm interested in collaborating on Time Series Forecasting and B2B Sales Prediction Projects
-👨‍💻 All of my projects are available at github.io/DHportfolio/
-📫 How to reach me: dhjrzzang@gmail.com
-📄 Know about my experiences on LinkedIn
-🎓 Currently pursuing Business Administration & Data Science at Dongguk University (Class of 2025)
+### Software Data Scientist & Business Analytics Student 📊 💻
+
+- 🔬 I'm currently developing a **Multimodal LLM Call Agent Project** using OpenAI & RAG
+- 📈 I worked on a **Stock Market Price Movement Prediction Project** combining Sentiment Analysis & Deep Learning
+- 👥 I'm interested in collaborating on **Time Series Forecasting** and **B2B Sales Prediction Projects**
+- 👨‍💻 All of my projects are available at [github.io/DHportfolio/](https://github.io/DHportfolio/)
+- 📫 How to reach me: **dhjrzzang@gmail.com**
+- 📄 Know about my experiences on [LinkedIn](https://linkedin.com/in/donghokim)
+- 🎓 Currently pursuing **Business Administration & Data Science** at Dongguk University (Class of 2025)
+
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/donghokim)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.io/DHportfolio/)
 
 ### Languages and Tools:
 
