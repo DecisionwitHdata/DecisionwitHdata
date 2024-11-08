@@ -8,17 +8,17 @@
 
 - 👥 I'm interested in collaborating on **Time Series Forecasting** and **B2B Sales Prediction Projects**
 
-- 👨‍💻 All of my projects are available at [github.io/DHportfolio/](www.linkedin.com/in/dongho-evan-kim)
+- 👨‍💻 All of my projects are available at [github.io/DHportfolio/](https://decisionwithdata.github.io/DHportfolio/)
 
 - 📫 How to reach me: **dhjrzzang@gmail.com**
 
-- 📄 Know about my experiences on [LinkedIn](https://decisionwithdata.github.io/DHportfolio/)
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/dongho-evan-kim)
 
 - 🎓 Currently pursuing **Business Administration & Data Science** at Dongguk University (Class of 2025)
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dongho-evan-kim)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://decisionwithdata.github.io/DHportfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dongho-evan-kim)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](\https://decisionwithdata.github.io/DHportfolio/)
 
 ### Languages and Tools:
 
