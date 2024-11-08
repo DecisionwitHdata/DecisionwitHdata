@@ -4,7 +4,7 @@
 
 - 🔬 I'm currently developing a **Multimodal LLM Call Agent Project** using OpenAI & RAG
   
-- 📈 I worked on a **Stock Market Price Movement Prediction Project** combining Sentiment Analysis & Deep Learning
+- 📈 I worked on a **Stock Market Price Movement Prediction Project** combining Sentiment Analysis & Deep Learning at ION LAB
 
 - 👥 I'm interested in collaborating on **Time Series Forecasting** and **B2B Sales Prediction Projects**
 
