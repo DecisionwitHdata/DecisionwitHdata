@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Dongho Kim
 
-### Software Data Scientist & Business Analytics Student 📊 💻
+### Software Data Scientist & Business Analyst 📊 💻
 
 - 🔬 I'm currently developing a **Multimodal LLM Call Agent Project** using OpenAI
   
