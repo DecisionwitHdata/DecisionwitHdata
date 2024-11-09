@@ -2,7 +2,7 @@
 
 ### Software Data Scientist & Business Analytics Student 📊 💻
 
-- 🔬 I'm currently developing a **Multimodal LLM Call Agent Project** using OpenAI & RAG
+- 🔬 I'm currently developing a **Multimodal LLM Call Agent Project** using OpenAI
   
 - 📈 I worked on a **Stock Market Price Movement Prediction Project** combining Sentiment Analysis & Deep Learning at ION LAB
 
