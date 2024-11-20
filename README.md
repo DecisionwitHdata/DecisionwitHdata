@@ -4,11 +4,11 @@
 
 - 🔬 I'm currently developing a **Multimodal LLM Call Agent Project** using OpenAI
   
-- 📈 I worked on a **Stock Market Price Movement Prediction Project** combining Sentiment Analysis & Deep Learning at ION LAB
+- 📈 I worked on a **Stock Market Price Movement Prediction Project** combining Sentiment Analysis & Deep Learning at Intelligence and Optimization in Networks Lab
 
-- 👥 I'm interested in collaborating on **Time Series Forecasting** and **B2B Sales Prediction Projects**
+- 👥 I am interested in collaborating on **Natural Language Processing** and **Time Series Forecasting**
 
-- 👨‍💻 All of my projects are available at [github.io/DHportfolio/](https://decisionwithdata.github.io/DHportfolio/)
+- 👨‍💻 All of my projects are available at [github.io/DHportfolio/](https://decisionwithdata.github.io/DHportfolio/) 
 
 - 📫 How to reach me: **dhjrzzang@gmail.com**
 
