@@ -8,8 +8,6 @@
 
 - 👥 I am interested in collaborating on **Natural Language Processing** and **Time Series Forecasting**
 
-- 👨‍💻 All of my projects are available at [github.io/DHportfolio/](https://decisionwithdata.github.io/DHportfolio/) 
-
 - 📫 How to reach me: **dhjrzzang@gmail.com**
 
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/dongho-evan-kim)
