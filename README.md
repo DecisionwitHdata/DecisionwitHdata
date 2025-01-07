@@ -16,8 +16,7 @@
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dongho-evan-kim)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](\https://decisionwithdata.github.io/DHportfolio/)
-
+[![CV](https://img.shields.io/badge/CV-Download-blue?style=for-the-badge&logo=adobe-acrobat-reader)](./Dongho_Kim_CV.pdf)
 ### Languages and Tools:
 
 <!-- Programming Languages -->
