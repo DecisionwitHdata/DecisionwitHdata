@@ -1,4 +1,5 @@
 ## Hi 👋,
+My name is Dongho Kim.
 
 ### Languages and Tools:
 
