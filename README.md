@@ -1,4 +1,4 @@
-## Hi 👋, I'm Dongho Kim
+## Hi 👋,
 
 ### Languages and Tools:
 
