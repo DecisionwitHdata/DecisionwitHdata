@@ -1,22 +1,5 @@
 ## Hi 👋, I'm Dongho Kim
 
-### Software Data Scientist & Business Analyst 📊 💻
-
-- 🔬 I'm currently developing a **Multimodal LLM Call Agent Project** using OpenAI
-  
-- 📈 I worked on a **Stock Market Price Movement Prediction Project** combining Sentiment Analysis & Deep Learning at Intelligence and Optimization in Networks Lab
-
-- 👥 I am interested in collaborating on **Natural Language Processing** and **Time Series Forecasting**
-
-- 📫 How to reach me: **dhjrzzang@gmail.com**
-
-- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/dongho-evan-kim)
-
-- 🎓 Currently pursuing **Business Administration & Data Science** at Dongguk University
-
-### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dongho-evan-kim)
-[![CV](https://img.shields.io/badge/Curriculum_Vitae-PDF-blue?style=for-the-badge&logo=read-the-docs)](./CV_Github.pdf)
 ### Languages and Tools:
 
 <!-- Programming Languages -->
